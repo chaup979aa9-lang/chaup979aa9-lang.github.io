@@ -5,7 +5,7 @@ navbar_name: "Yibin Che"
 positions:
 - name: Resident Physician
 - name: Renji Hospital, Shanghai Jiao Tong University School of Medicine
-  logo: /assets/images/badges/renji.png  # Logo is optional
+  logo: /assets/images/badges/renji.png
 
 
 email: "cheyibin@renji.com"
