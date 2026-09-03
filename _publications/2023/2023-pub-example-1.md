@@ -2,7 +2,7 @@
 title:          "CDK2AP1 influences immune infiltrates and serves as a prognostic indicator for hepatocellular carcinoma"
 date:           2022-08-29
 selected:       true
-pub:            "Front Genet"
+pub:            "Front Genet."
 pub_date:       "2022"
 abstract: >-
   Hepatocellular carcinoma (HCC) is a tumor with high malignancy and poor 5-years survival rate. Excellent tumor markers are very important for early clinical diagnosis and prognosis evaluation. Previous studies have shown that CDK2AP1 (Cyclin-dependent kinase 2-associated protein 1) is involved in cell-cycle and epigenetic regulation. In the present study, we assess CDK2AP1 expression, prognostic value, immunomodulatory and possible influencing pathways in HCC.
