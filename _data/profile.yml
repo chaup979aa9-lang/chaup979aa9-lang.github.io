@@ -1,18 +1,17 @@
-primary_name: "Your Name"
+primary_name: "Yibin Che"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Yibin Che"
 
 positions:
-- name: Title or Position
+- name: 
 - name: Affiliation Name
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "cheyibin@renji.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: VvpDOucAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: chaup979aa9-lang
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -35,27 +34,23 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: Zhongshan Hospital, Fudan University School of Medicine
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+    Hepatobiliary Tumor and Liver Transplantation Surgery <br/>
+    M.D. Student
+  date: Sep. 2023 - Jul. 2026
+- name: Renji Hospital, Shanghai Jiao Tong University School of Medicine
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: Department of Liver Surgery
+  date: Sep. 2020 - Jul. 2023
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Renji Hospital, Shanghai Jiao Tong University School of Medicine
+logo: /assets/images/badges/PKU_red.png
+position: Department of Liver Surgery
+date: Aug. 2026 - present
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Outstanding Graduate of Shanghai Municipality
+  date: 2023
