@@ -17,5 +17,5 @@ authors:
   - Haizhong Feng#
   - Qiang Xia#
 links:
-  Code: https://github.com/luost26/academic-homepage](https://www.ovid.com/jnls/hep/fulltext/10.1097/hep.0000000000000047~gut-microbial-metabolite-butyrate-improves-anticancer
+https://github.com/luost26/academic-homepage](https://www.ovid.com/jnls/hep/fulltext/10.1097/hep.0000000000000047~gut-microbial-metabolite-butyrate-improves-anticancer
 ---
