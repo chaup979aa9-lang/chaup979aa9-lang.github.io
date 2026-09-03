@@ -51,7 +51,12 @@ experience:
   position: Department of Liver Surgery <br/>
     Resident
   date: Aug. 2026 - present
-
+- name: Renji Hospital, Shanghai Jiao Tong University School of Medicine
+  logo: /assets/images/badges/renji.png
+  position: Department of Liver Surgery <br/>
+    Clinical Postdoctoral Fellow
+  date: Aug. 2026 - present
+  
 awards:
 - name: Outstanding Graduate of Shanghai Municipality
   date: 2023
