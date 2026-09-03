@@ -44,7 +44,7 @@ education:
   position: Department of Liver Surgery
   date: Sep. 2020 - Jul. 2023
 
-experience:
+# experience:
 - name: Renji Hospital, Shanghai Jiao Tong University School of Medicine
 logo: /assets/images/badges/renji.png
 position: Department of Liver Surgery
