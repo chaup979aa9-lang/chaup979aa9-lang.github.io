@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "Yibin Che"
 
 positions:
-- name: 
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Resident Physician
+- name: Renji Hospital, Shanghai Jiao Tong University School of Medicine
+  logo: /assets/images/badges/renji.png  # Logo is optional
 
 
 email: "cheyibin@renji.com"
