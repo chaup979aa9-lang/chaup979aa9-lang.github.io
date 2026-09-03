@@ -2,7 +2,7 @@
 title:          "Gut microbial metabolite butyrate improves anticancer therapy by regulating intracellular calcium homeostasis"
 date:           2023-01-03
 selected:       true
-pub:            "Hepatology"
+pub:            "Hepatology."
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2023"
 semantic_scholar_id: 5e3832885fd72f9585fce71ed37c18ac438c1643  # use this to retrieve citation count
