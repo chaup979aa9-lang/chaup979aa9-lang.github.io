@@ -10,7 +10,7 @@ cover:          /assets/images/covers/cover1.jpg
 authors:
 - Yibin Che
 - Ge Wang
-- Qiang Xia*
+- Qiang Xia#
 links:
   Paper: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.937310/full
 ---
