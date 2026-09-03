@@ -11,6 +11,7 @@ authors:
 - Yibin Che
 - Ge Wang
 - Qiang Xia#
+semantic_scholar_id: 34e7eeacf4150dc774a64b94de11c9e254a07ec4  # use this to retrieve citation count
 links:
   Paper: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.937310/full
 ---
