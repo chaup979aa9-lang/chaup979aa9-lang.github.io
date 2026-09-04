@@ -1,4 +1,4 @@
 ---
-title: Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-date: 2022-01-12 00:01:00 +0800
+title: The 20th Anniversary of the Department of Liver Surgery, Renji Hospital, Shanghai Jiao Tong University School of Medicine
+date: 2024-09
 ---
